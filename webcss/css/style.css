@@ -1,12 +1,22 @@
-/* h1 {
-    color: red;
-} */
-
-#Anmol {
-    background:  blue;
-    color:white ;
+#motki{
+    height:100px;
+    width: 100px;
+    background-color: green;
+    border-style:solid;
+    border-radius: 50%;
+}
+.div{
+    font-family: 'Times New Roman', Times, serif;
+}
+.amazon{
+    border: 10px solid white;
+    background-color: black;
+    height: 70px;
 }
 
-#heading {
-    color: red;
+#in{
+    color: orange;
+    padding-top: 40px;
+    padding-left: 5px;
+    margin-right: 70px;
 }
