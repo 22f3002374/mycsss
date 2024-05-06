@@ -3,8 +3,15 @@
     margin: 0;
     
 }
+
+#content{
+    height: 700px;
+    width: 100px;
+}
+
 body{
-    background-image: url("C:\Users\Anmol\Downloads\photu.jpg");
+    background-image: url("C:/Users/Anmol/Downloads/photu.jpg");
+    background-size: cover;
 }
 
 #motki{
@@ -41,4 +48,15 @@ body{
 
 button{
     background-color: orange;
+}
+footer{
+    background-color: black;
+    width:1498px;
+    height: 80px;
+}
+
+#foot{
+    color: white;
+    text-align: center;
+    font-size: medium;
 }
