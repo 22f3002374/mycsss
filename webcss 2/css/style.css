@@ -1,0 +1,25 @@
+*{
+    text-align: center;
+}
+
+#content{
+    height: 200px;
+    width: 200px;
+    border: 2px solid black;
+    margin: 150px;
+}
+
+div{
+    height: 100px;
+    width: 100px;
+}
+
+#box{
+    border: 2px solid black;  
+    justify-content: center;
+}
+@media (width:600px) {
+    div{
+        background-color:antiquewhite;
+    }
+}
